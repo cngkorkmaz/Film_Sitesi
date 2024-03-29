@@ -8,5 +8,7 @@
 
 <h3> Ekran Gorunumu</h3>
 
-![](ekran.gif)
+![](ekran1.gif)
+
+
 
