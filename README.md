@@ -1,16 +1,16 @@
 # Film Sitesi Projesi 
 
-<h1> Bu repoda, kullanıcıar film ve dizi tanıtımlarına kolayca ulaşabilirler.
+Bu repoda, kullanıcıar film ve dizi tanıtımlarına kolayca ulaşabilirler.
 
-In this repo, users can easily access movie and TV series trailers</h1>
+In this repo, users can easily access movie and TV series trailers
 
-<h2> Özellikler </h>
+# Özellikler
 
 - Filtreleme ile istedikleri film türlerini seçebilme imkanı
 
 - Gece ve gündüz modu
 
-<h2> Kullanılan Teknolojiler </h2>
+# Kullanılan Teknolojiler 
 - HTML, CSS, Java-Script
 
 <h3> Ekran Gorunumu</h3>
