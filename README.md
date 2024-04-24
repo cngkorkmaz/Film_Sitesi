@@ -1,14 +1,21 @@
-# Film_Sitesi
+# Film Sitesi Projesi 
 
-<h1> Bu benim ikinci projem</h1>
+<h1> Bu repoda, kullanıcıar film ve dizi tanıtımlarına kolayca ulaşabilirler.
 
-<h2> Harici Kullanımlar </h>
+In this repo, users can easily access movie and TV series trailers</h1>
 
-Örnek bir film sitesi çalışması yapılmıştır.
+<h2> Özellikler </h>
+
+- Filtreleme ile istedikleri film türlerini seçebilme imkanı
+
+- Gece ve gündüz modu
+
+<h2> Kullanılan Teknolojiler </h2>
+- HTML, CSS, Java-Script
 
 <h3> Ekran Gorunumu</h3>
 
-![](ekran1.gif)
+![](2.film%20sitesi.gif)
 
 
 
